@@ -1,0 +1,9 @@
+com/bigData/restReview/DataProcessor$2.class
+com/bigData/restReview/CollaborativeFiltering.class
+com/bigData/restReview/DataProcessor$1.class
+com/bigData/restReview/Driver.class
+com/bigData/restReview/DataClassifier.class
+com/bigData/restReview/DataProcessor.class
+com/bigData/restReview/ReviewNormalizer.class
+com/bigData/restReview/ReviewSummarization.class
+com/bigData/restReview/MyComparator.class
